@@ -1,0 +1,22 @@
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+
+img
+{
+    width: 500px;
+    height: 500px;
+}
+
+p
+{
+    color: white;
+    background-color: black;
+}
+button
+{
+    font-size: 50px;
+    width: 69%;
+}
